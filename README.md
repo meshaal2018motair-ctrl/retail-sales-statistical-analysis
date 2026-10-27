@@ -148,7 +148,15 @@ Note: The original CSV dataset is not included.
 - [Power BI Dashboard](Retail_Sales_Analytics.pbix)
 - [Dashboard PDF](Retail_Sales_Analytics.pdf)
 - [Python Requirements](requirements.txt)
+## Dataset Source
 
+Dataset: Sample Superstore (2014–2017)
+
+Source:
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+The dataset contains 9,994 retail records.
+The original CSV is not included in this repository.
 
 ## Acknowledgment and limitations
 
