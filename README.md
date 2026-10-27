@@ -124,6 +124,35 @@ retail-sales-statistical-analysis/
     └── README.md                 # add Retail_Sales_Analytics.pbix here
 ```
 
+## How to Run the Analysis
+
+1. Download or clone this repository.
+2. Install the required Python packages:
+
+   pip install -r requirements.txt
+
+3. Place Superstore.csv in the project directory.
+4. Run the statistical analysis:
+
+   python statistical_analysis.py
+
+## Project Files
+
+- statistical_analysis.py — Python statistical analysis
+- Retail_Sales_Analytics.pbix — Power BI dashboard
+- Retail_Sales_Analytics.pdf — Dashboard PDF
+- requirements.txt — Python dependencies
+
+Note: The original CSV dataset is not included.
+
+## Access the Project
+
+- [Python Analysis](statistical_analysis.py)
+- [Power BI Dashboard](Retail_Sales_Analytics.pbix)
+- [Dashboard PDF](Retail_Sales_Analytics.pdf)
+- [Python Requirements](requirements.txt)
+
+
 ## Acknowledgment and limitations
 
 This is a personal learning/portfolio analysis using historical retail sample records, not an audit or a recommendation to modify real-world pricing without further validation. Confirm the original data attribution and license before public distribution.
