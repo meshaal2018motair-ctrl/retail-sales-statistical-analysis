@@ -108,20 +108,17 @@ The above commands will work **only after** you have added the original Python s
 ## Repository contents
 
 ```text
+
 retail-sales-statistical-analysis/
 ├── README.md
-├── .gitignore
-├── GITHUB_UPLOAD_CHECKLIST.md
-├── assets/
-│   ├── executive-overview.png
-│   ├── sales-profitability.png
-│   └── statistical-insights.png
-├── reports/
-│   └── Retail_Sales_Analytics.pdf
-├── scripts/
-│   └── README.md                 # add statistical_analysis.py here
-└── powerbi/
-    └── README.md                 # add Retail_Sales_Analytics.pbix here
+├── statistical_analysis.py
+├── Retail_Sales_Analytics.pbix
+├── Retail_Sales_Analytics.pdf
+├── requirements.txt
+├── executive-overview.png
+├── sales-profitability.png
+└── statistical-insights.png
+
 ```
 
 ## How to Run the Analysis
