@@ -10,23 +10,23 @@ This portfolio project combines an interactive business-intelligence report with
 
 ### 1. Executive Overview
 
-![Executive Overview dashboard](assets/executive-overview.png)
+![Executive Overview dashboard](executive-overview.png)
 
 Shows sales, profits, orders, profit margin, trends, category profitability, and year selection. The exported preview is filtered to **2017**, whereas the full-dataset statistical results below cover **2014–2017**.
 
 ### 2. Sales & Profitability
 
-![Sales & Profitability dashboard](assets/sales-profitability.png)
+![Sales & Profitability dashboard](sales-profitability.png)
 
 Examines annual performance, profit by sub-category, sales versus profit by category, and an **Appliances** discount case study.
 
 ### 3. Statistical Insights
 
-![Statistical Insights dashboard](assets/statistical-insights.png)
+![Statistical Insights dashboard](statistical-insights.png)
 
 Visualizes the discount–profit-margin relationship and summarizes results calculated in Python.
 
-**[View the full Power BI report (PDF)](reports/Retail_Sales_Analytics.pdf)**
+[View the full Power BI report (PDF)](Retail_Sales_Analytics.pdf)
 
 ## Research question
 
